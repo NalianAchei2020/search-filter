@@ -1,3 +1,5 @@
+/* eslint-disable array-callback-return */
+/* eslint-disable eqeqeq */
 import './App.css';
 import JSONDATA from './MOCK_DATA.json';
 import {useState} from 'react';
